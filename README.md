@@ -67,3 +67,5 @@ Mobile Application
 - AI-based income prediction
 - Automatic claim system
 
+## 🎥 Demo Video
+[Watch Here](https://drive.google.com/file/d/1o2IUGnzSOajXhhgZaIj1f1KHsBBP1iAs/view?usp=drive_link)
